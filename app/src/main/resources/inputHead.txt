@@ -1,0 +1,84 @@
+Create an airtableAssistant based on this example spec but for a different topic listed below the spec. The following is an example of the airtableAssistant page for a chemistry airtableAssistant as an example. When generating the new airtableAssistant, keep in mind you to enhance seo. Use the following for format.
+
+Name - Chemistry Assistant
+Subtitle - AI-powered Chemistry Problem Solver
+ShortDescription - Answer chemistry questions and think through solving chemistry problems. Get detailed and understandable explanations with a text or photo.
+MediumDescription - StudyAI’s Chemistry Assistant is an AI-powered tool designed to answer chemistry questions and think through solving chemistry problems. By leveraging advanced AI models, this tool simplifies complex chemistry problems and provides detailed, understandable solutions.
+WhoItsForTitle - Who is Chemistry Assistant Tool for?
+WhoItsForDescription - The Chemistry Assistant is perfect for students, teachers, and anyone looking to understand and solve chemistry problems.
+WhoItsForExample1 - Homework Help: Students can use the Chemistry Assistant to help understand and work through chemistry problems in their homework.
+WhoItsForExample2 - Teaching Aid: Teachers can use this tool to generate solutions to chemistry problems, aiding in lesson planning and student instruction.
+WhoItsForExample3 - Exam Preparation: Use the Chemistry Assistant to prepare for chemistry exams by solving practice problems and getting explanations of chemistry terms and principles.
+WhoItsForExample4 - Research Assistance: Researchers can use this tool to help work through chemistry problems in their work.
+HowToUseTitle - How to use Chemistry AI?
+HowToUseDescription1 - Download StudyAI App
+HowToUseDescription2 - Type OR Photograph your chemistry problem
+HowToUseDescription3 - Click the 'Generate' button, and the AI will provide a detailed answer to your chemistry problem.
+HowToUseDescription4 - Review the generated solution, ensuring it aligns with your understanding of the problem.
+HowToUseDescription5 - Copy and paste the solution for your reference or to share it with others.
+FAQ1Title - Is StudyAI's Chemistry Assistant Free to Use?
+FAQ1Description - Yes, StudyAI offers a free trial for users to try the Chemistry Assistant. You can choose to upgrade to Ultra for $2.99/week or $9.99/mo.
+FAQ2Title - How does the AI generate solutions to chemistry problems?
+FAQ2Description - The Chemistry Assistant uses AI models like GPT-4 and ChatGPT to analyze your problem. It then uses the understanding of trillions of words and billions of books and websites to generate a detailed solution, explaining the steps and concepts involved to solve the problem.
+FAQ3Title - Can I use the Chemistry Assistant for advanced chemistry problems?
+FAQ3Description - Yes, the Chemistry Assistant is designed to handle a wide range of chemistry problems, from basic to advanced. However, it's always important to cross-verify the solutions provided by the AI with trusted resources or professionals in the field to ensure accuracy and understanding, especially with more complex problems and principles.
+FAQ4Title - Can I use the Chemistry Assistant for other science subjects?
+FAQ4Description - While the Chemistry Assistant is specifically designed for chemistry problems, StudyAI offers other AI tools for different subjects and needs. You can explore more tools at mystudyai.app/tools.
+SystemPrompt - Act as the Chemistry Assistant, an AI-powered tool geared towards helping users solve chemistry problems and understand concepts. Provide detailed, comprehensible explanations for questions, and offer support in solving problems. Target users range from students needing homework help to teachers and researchers seeking clarification on complex chemistry topics. Emphasize clarity, accuracy, and educative support in all interactions.
+InitialMessage - Welcome! How can I assist with your chemistry questions today?
+Emoji - 🧪
+UsageMessages - 843935
+UsageUsers - 39487
+
+This is an example of the resultant webpage that an airtableAssistant will display. The first example is another website, the second is mine. I want you to take into account the pros and cons of their site vs mine for keyword optimization and SEO, and human/user readability and engagement.
+
+Essay Outline Generator
+Structure your essay with AI
+HyperWrite's Essay Outline Generator is an AI-powered tool that takes your essay topic and text, and creates a structured outline to help you organize your thoughts and ideas. Powered by GPT-4 and ChatGPT, this tool provides you with a clear roadmap for your essay, including an introduction, main points, and conclusion.
+Try it
+Create account
+Who is the Essay Outline Generator tool for?
+The Essay Outline Generator is perfect for students, writers, and professionals who want to improve the organization and flow of their essays.
+Academic essays: Create a clear structure for your research papers, argumentative essays, or literature reviews.
+Blog posts: Organize your blog content into a coherent and logical flow.
+Business reports: Structure your reports to ensure a clear presentation of your findings and recommendations.
+Personal essays: Create a compelling narrative structure for your personal stories or experiences.
+Opinion pieces: Clearly outline your arguments and supporting evidence to persuade your readers.
+Create your free account to get started with Essay Outline Generator and explore hundreds of powerful AI tools to transform your work.
+Get Started
+How to use Essay Outline Generator
+Visit the tool's page.
+Input your essay topic and the essay text.
+Click the 'Generate' button, and the AI will create a structured outline for your essay, including an introduction, main points, and conclusion.
+Review the generated outline, making any necessary edits or adjustments to ensure it aligns with your essay's content and desired structure.
+Use the outline as a guide to revise and improve the organization of your essay.
+
+This is a comparable post that my prompt is generating
+
+Home » Essay Writing Assistant
+Essay Writing Assistant
+Your go-to resource for any essay writing need, from brainstorming to final edits.
+The Essay Assistant is designed to support students in every phase of essay writing. Offering tailored guidance for brainstorming, creating structured outlines, and providing detailed feedback, it ensures essays are well-crafted and academically sound. Ideal for different subjects and essay types.
+Try it Now
+📝
+Who can benefit from the Essay Assistant?
+The Essay Assistant is perfect for students at all academic levels, from high school to university. Whether you’re dealing with a complex dissertation or a simple five-paragraph essay, I’m here to facilitate and enhance your writing process.
+• Generating ideas for an argumentative essay on environmental science.
+• Brainstorming topics for a historical research paper.
+• Creating outlines for essays on art critique or philosophical analysis.
+• By providing feedback on drafts, including structure and coherence.
+Download for free for access to 1400+ study assistants, homework helpers, problem solvers and more.
+
+Download on App Store button
+How to Use the Essay Assistant
+1. Start a conversation by describing your essay topic or the assignment requirements.
+3. Receive tailored suggestions for creating an organized outline based on your brainstormed ideas.
+4. Request specific feedback on your draft about structure, coherence, and argumentative strength.
+5. Review and refine the final draft to ensure clarity, coherence, flow, and presence of all required elements.
+Absolutely! I am equipped to handle essays in subjects like literature, history, science, social studies, and beyond. Just share your subject, and I’ll provide relevant insights.
+Can this airtableAssistant help with niche or complex topics?
+Can the Essay Assistant provide feedback on my draft?
+How does the Essay Assistant handle different citation styles?
+
+
+Take into account the tips from the first in particular reference to SEO and keyword optimization, and human/user readability and engagement.
