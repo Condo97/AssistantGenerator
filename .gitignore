@@ -3,4 +3,9 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore Keys folder
 /app/src/main/java/com/assistantgenerator/keys/
+
+# Ignore Out directory
+/lib/out
